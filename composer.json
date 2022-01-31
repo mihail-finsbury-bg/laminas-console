@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-console",
+    "name": "mihail-finsbury-bg/laminas-console",
     "description": "Build console applications using getopt syntax or routing, complete with prompts",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -25,7 +25,7 @@
         }
     },
     "require": {
-        "php": "^5.6 || ^7.0",
+        "php": "^5.6 || ^7.0 || ^8.0",
         "laminas/laminas-stdlib": "^3.2.1",
         "laminas/laminas-zendframework-bridge": "^1.0"
     },
